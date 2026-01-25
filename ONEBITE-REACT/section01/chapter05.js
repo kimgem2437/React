@@ -1,7 +1,7 @@
 // 1. Number
 let num1 = -27;
-let num2 1.5;
-let num3 -20;
+let num2 = 1.5;
+let num3 = -20;
 
 
 let int = Infinity;
